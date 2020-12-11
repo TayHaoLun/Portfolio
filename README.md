@@ -8,11 +8,22 @@ This is my portfolio containing school assignments done during the course of my 
 Assignment 1- First two methods will printing out 52 playing cards From Spade,Heart, Diamond and Club in ascending order of 2,3,4,5,6,7,8,9,'T','J','Q','K' and 'A'from ArrayList
 and an Array.The final method will be shuffling the cards and printing them out after being shuffled
 
+![ScreenShot](https://github.com/TayHaoLun/Portfolio/blob/master/Screenshot/Screenshot%202020-12-11%20205423.png)
+
 Assignment 2-Generating out 2D and 3D shapes through a random of 1 to 10. It will calculate and print the area and volume of the 3D shapes. As for 2D shapes, it will calculate 
 and print out their area.
 
+![ScreenShot](https://github.com/TayHaoLun/Portfolio/blob/master/Screenshot/Screenshot%202020-12-11%20205839.png)
+
+
 Assignment 3-Generating a grid layout of 100 buttons. A single click on one of the top 64 buttons above the buttons labbelled "GOOD LUCK" will generate and arrange numbers from
 1 to 64 in random orders. The program will also select 7 random numbers and 25 listing them out on the last row of buttons.
+
+![ScreenShot](https://github.com/TayHaoLun/Portfolio/blob/master/Screenshot/Screenshot%202020-12-11%20210008.png)
+
+
+![ScreenShot](https://github.com/TayHaoLun/Portfolio/blob/master/Screenshot/Screenshot%202020-12-11%20210021.png)
+
 
 # Python 
 data.csv contains the data of Avatars
