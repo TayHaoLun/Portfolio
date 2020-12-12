@@ -40,3 +40,10 @@ Assignment3-Checks whether the Avatar Record is valid through whether the ID of 
         • Contains 3 integers between the two letters.
 
 Assignment4-Insert new Avatar Record, Delete Existing Avatar Record, Save and Exit data.csv
+
+
+# C Programming
+A friend and me did a program on displaying the Horocope of the user. It will display the Western and Eastern Horoscope. I recently changed the program from a simple switch program to a program of functions and do while switch loop.
+
+# C# Programming
+
