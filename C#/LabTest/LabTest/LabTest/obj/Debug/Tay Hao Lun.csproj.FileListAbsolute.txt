@@ -1,0 +1,10 @@
+d:\APPG\LabTest\LabTest\LabTest\bin\Debug\LabTest.exe.config
+d:\APPG\LabTest\LabTest\LabTest\bin\Debug\LabTest.exe
+d:\APPG\LabTest\LabTest\LabTest\bin\Debug\LabTest.pdb
+d:\APPG\LabTest\LabTest\LabTest\obj\Debug\LabTest.Form1.resources
+d:\APPG\LabTest\LabTest\LabTest\obj\Debug\LabTest.Properties.Resources.resources
+d:\APPG\LabTest\LabTest\LabTest\obj\Debug\Tay Hao Lun.csproj.GenerateResource.Cache
+d:\APPG\LabTest\LabTest\LabTest\obj\Debug\LabTest.exe
+d:\APPG\LabTest\LabTest\LabTest\obj\Debug\LabTest.pdb
+D:\APPG\LabTest\LabTest\LabTest\obj\Debug\Tay Hao Lun.csprojAssemblyReference.cache
+D:\APPG\LabTest\LabTest\LabTest\obj\Debug\Tay Hao Lun.csproj.CoreCompileInputs.cache
