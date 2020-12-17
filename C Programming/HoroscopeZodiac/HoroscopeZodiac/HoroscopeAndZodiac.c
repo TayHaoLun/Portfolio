@@ -6,6 +6,7 @@
 // you may include other header file or define constant 
 
 
+/*Function to show what horoscope you are*/
 void Horoscope(int month, int date) {
 
 	if (month == 1 && date >= 21 && date <= 31)
@@ -108,8 +109,7 @@ void Horoscope(int month, int date) {
 	{
 		printf(" There is no horoscope for this, try again\n");
 	}
-}
-
+}/*Function to show what Zodiac you are */
 void Zodiac(int year) {
 	int zodiac;
 	zodiac = year % 12;          /* Computes remainder */
@@ -164,6 +164,7 @@ void Zodiac(int year) {
 	}
 }
 
+/*Menu*/
 void main(void)
 {
 	int count = 0, date, month, birthyear;
